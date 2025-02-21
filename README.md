@@ -1,4 +1,5 @@
-SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY![image]
+SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
+
 A project on Secure Data Hiding in Images Using Steganography typically involves embedding secret information (like text, files, or other data) into an image in such a way that the hidden information is not easily noticeable to the human eye. This is a great way to achieve data privacy and security, as it blends the secret information with the image.
 
 Here’s a high-level guide for implementing a steganography project using Python and OpenCV (or PIL/Pillow for image processing):
